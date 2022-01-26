@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gradle-sample-app
+  description: This is a gradle application.
+  annotations:
+    github.com/project-slug: backstage/backstage
+    github.com/user-login: skaneria-nydig
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: application
+  owner: sanjeev.kaneria@nydig.com
+  lifecycle: experimental
