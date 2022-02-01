@@ -9,6 +9,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: application
-  owner: sanjeev.kaneria
+  owner: sanjeev kaneria
   lifecycle: experimental
   system: devtools-system
