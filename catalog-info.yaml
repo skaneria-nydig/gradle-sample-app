@@ -8,7 +8,7 @@ metadata:
     github.com/user-login: skaneria-nydig
     backstage.io/techdocs-ref: dir:.
     jira/project-key: DT
-    jira/token-type: Bearer # optional, used for Activity stream feed. If you are using Basic auth you can skip this.
+    #jira/token-type: Bearer # optional, used for Activity stream feed. If you are using Basic auth you can skip this.
 spec:
   type: application
   owner: devtools-dev
